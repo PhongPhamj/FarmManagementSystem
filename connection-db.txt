@@ -1,0 +1,3 @@
+host:dpg-ck5hubn9056s73d48350-a.oregon-postgres.render.com
+port:5432
+pass và user trong file application-dev.yml
